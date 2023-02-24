@@ -12,12 +12,4 @@ The non-fungible token (NFT) is a standard ERC721 token and was deployed on the 
  
 The first drop was on the second of November 2021, where 500 IOTABOTS were minted for free, followed by a second drop on the 10th of November 2021.
 
-In total, 1038 IOTABOTS have been minted. (including the one-off giveaways)
-
 There also have been 1001 SPACEBOTS dropped, which are simple unique games.
-
-A new type of bots, SOONABOTS are available for sale on [Soonaverse](https://soonaverse.com/collection/0xeb47806ef8d4c908179bd05eeabc20bc3de8c81a).
-
-In the future, BOTS NFTs will give [special privileges](https://twitter.com/iotabots/status/1498614525108490242) (yet to be determined) to their holders.
-
-The creator, [iotaben](https://twitter.com/iotaben), has been featured on the Moonaco Podcast. [Available Here](https://open.spotify.com/episode/3VabodTvoQZocdKEpF8dUU?si=30f9431dfc3f4d67).
